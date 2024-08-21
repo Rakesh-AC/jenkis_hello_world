@@ -5,7 +5,7 @@ def hello_world():
 
 
 def hello_again():
-    return "--------TRIGGERD-----------"
+    return "--------|||||||||||    TRIGGERD FROM GIT    |||||||||||||-----------"
 
 
 if __name__ == "__main__":
